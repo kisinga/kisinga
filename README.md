@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kisinga
-- 👀 I’m interested in Golang, Typescript, Open Source
-- 🌱 I’m currently learning how Git works
-- 💞️ I’m looking to collaborate on Realtime Systems, Concurrency patterns
+- 👀 I’m interested in Golang, Typescript, Swift
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on Backend Systems, Deisgn patterns 
 - 📫 How to reach me twitter:@stevekisinga
 
 <!---
